@@ -1,0 +1,26 @@
+{
+  "en": {
+    "mixed": {
+      "required": "Required field."
+    },
+    "string": {
+      "email": "Invalid email address.",
+      "min": "Required minimum ${min} characters."
+    },
+    "array": {
+      "min": "Required minimum ${min} elements."
+    }
+  },
+  "es": {
+    "mixed": {
+      "required": "Campo requerido."
+    },
+    "string": {
+      "email": "Dirección de correo inválida.",
+      "min": "Se requiere mínimo ${min} caracteres."
+    },
+    "array": {
+      "min": "Se requiere mínimo ${min} caracteres."
+    }
+  }
+}

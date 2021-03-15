@@ -1,0 +1,16 @@
+{
+  "development": {
+    "firestore": {
+      "apiKey": "AIzaSyAQ_j5DTOUUzc8vXRifd1WS7VL8IF6MtAs",
+      "authDomain": "react-test-bab4e.firebaseapp.com",
+      "projectId": "react-test-bab4e",
+      "storageBucket": "react-test-bab4e.appspot.com",
+      "messagingSenderId": "599029157964",
+      "appId": "1:599029157964:web:78eb8c76d9cd504b6d24e9",
+      "serverUrl": "https://us-central1-blank-project-225314.cloudfunctions.net/api"
+    }
+  },
+  "production": {
+    "firestore": {}
+  }
+}

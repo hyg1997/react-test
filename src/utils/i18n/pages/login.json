@@ -1,0 +1,14 @@
+{
+  "email": {
+    "en": "Email",
+    "es": "Correo electrónico"
+  },
+  "password": {
+    "en": "Password",
+    "es": "Contraseña"
+  },
+  "loginWithFacebook": {
+    "en": "Login with Facebook",
+    "es": "Iniciar Sesión con Facebook"
+  }
+}

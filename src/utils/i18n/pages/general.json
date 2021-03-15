@@ -1,0 +1,38 @@
+{
+  "login": {
+    "en": "Login",
+    "es": "Iniciar Sesión"
+  },
+  "home": {
+    "en": "Home",
+    "es": "Principal"
+  },
+  "users": {
+    "en": "Users",
+    "es": "Usuarios"
+  },
+  "editUser": {
+    "en": "Edit User",
+    "es": "Editar Usuario"
+  },
+  "logout": {
+    "en": "Logout",
+    "es": "Cerrar Sesión"
+  },
+  "selectDate": {
+    "en": "Select Date",
+    "es": "Seleccionar Fecha"
+  },
+  "image": {
+    "en": "Image",
+    "es": "Imagen"
+  },
+  "download": {
+    "en": "Download",
+    "es": "Descargar"
+  },
+  "profile": {
+    "en": "Profile",
+    "es": "Perfil"
+  }
+}
