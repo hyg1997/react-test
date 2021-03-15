@@ -8,6 +8,8 @@
     "@fortawesome/react-fontawesome": "^0.1.8",
     "antd": "^3.26.7",
     "antd-mobile": "^2.3.1",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.6",
     "firebase": "^7.7.0",
     "lodash": "^4.17.15",
     "react": "^16.12.0",
